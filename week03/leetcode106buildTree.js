@@ -1,4 +1,11 @@
 /**
+ * leetcode106. 从中序与后序遍历序列构造二叉树
+ * 注意:你可以假设树中没有重复的元素。
+ * 
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
